@@ -1,2 +1,0 @@
-print("heool ololo");
-print("heool ololo334")
