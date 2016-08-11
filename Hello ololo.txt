@@ -1,1 +1,2 @@
-print("heool ololo")
+print("heool ololo");
+print("heool ololo3");
